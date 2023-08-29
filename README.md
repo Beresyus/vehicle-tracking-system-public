@@ -48,4 +48,4 @@ Eğer sürekli olarak cihazın çalışmadığı tespit edilirse, tarafıma dön
 
 * Blog Web Sayfam: [https://beresyus.com](https://beresyus.com)
 
-* Projenin Sunum Linki: [-](https://youtu.be/rtaDlUtlB78)YouTube
+* Projenin Sunum Linki: [YouTube](https://youtu.be/rtaDlUtlB78)
